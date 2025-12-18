@@ -1,7 +1,7 @@
 # Política de Privacidade
 
 ## 1. Informações gerais
-Este jogo foi desenvolvido por **Revz / Revezous** e está disponível na Google Play Store.  
+Este jogo foi desenvolvido por **Revezous** e está disponível na Google Play Store.  
 Esta Política de Privacidade explica como tratamos os dados dos usuários.
 
 ## 2. Coleta de informações
